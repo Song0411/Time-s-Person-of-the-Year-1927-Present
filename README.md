@@ -9,7 +9,7 @@ Category: The professional field or the reason for influence.
 Nationality: The nationality of the person or group.
 
 # My Objectives
-Examine the nationality distribution of the awardees and explore the most frequent words used in context.
+Examine the nationality distribution of the awards and explore the most frequent words used in context.
 
 # How to Use
 Clone this repository to your local machine.
