@@ -1,6 +1,6 @@
 # Time-s-Person-of-the-Year-1927-Present
 
-Dataset Description
+#Dataset Description
 The Time Person of the Year dataset encompasses a comprehensive list of all individuals or groups that have been awarded this title since its inception in 1927. Key features of the dataset include:
 
 Name: The name of the person or group awarded.
