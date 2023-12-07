@@ -9,9 +9,8 @@ Category: The professional field or the reason for influence.
 Nationality: The nationality of the person or group.
 
 # My Objectives
-Examine the gender, nationality, and professional distribution of the awardees.
-Identify any trends or shifts in the types of individuals or groups chosen over the years.
-Explore how global events or societal changes might have influenced the selection of awardees.
+Examine the nationality distribution of the awardees.
+Explore the most frequent words used in context.
 
 # How to Use
 Clone this repository to your local machine.
